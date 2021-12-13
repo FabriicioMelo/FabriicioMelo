@@ -1,4 +1,3 @@
--           Hi 
 - 👋 Name -  Fabricio Melo
 - 👀 Interest - learning a lot
 - 🌱 Learning - Javascript
