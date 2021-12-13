@@ -1,4 +1,4 @@
 - 👋 Name -  Fabricio Melo
-- 👀 Interest - learning a lot
+- 👀 Interest - Learning a lot
 - 🌱 Learning - Javascript
 - 📫 Email - fabriciomelowork@gmail.com
