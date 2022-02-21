@@ -1,4 +1,4 @@
 - 👋 Name -  Fabricio Melo
 - 👀 Interest - Learning a lot
-- 🌱 Learning - Javascript
+- 🌱 Learning with Alura
 - 📫 Email - fabriciomelowork@gmail.com
