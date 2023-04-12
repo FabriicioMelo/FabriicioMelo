@@ -1,4 +1,4 @@
 - 👋 Name -  Fabricio de Almeida Guerra de Melo
 - 👀 Interest - Learning a lot
-- 🌱 Learning with by my self
+- 🌱 Learning with by myself
 - 📫 Email - fabricioalmeidaguerramelo@protonmail.com
