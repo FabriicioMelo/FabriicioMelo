@@ -7,7 +7,7 @@ I'm a Javascript Developer, that loves computer since childhood. Currently tryin
 - None
 
 ### 💼 Projects
-- Currently building a music bot for discord;
+- Currently building a tetris clone in terminal;
 
 ### ✉️ Contact information
 - E-mail: fabriciodealmeida.melo@gmail.com
